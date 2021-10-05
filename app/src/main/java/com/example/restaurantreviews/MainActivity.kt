@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
 
         // test Branch
     }
+    //Kollar så det funkar nu!  Sanna J
 }
